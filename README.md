@@ -1,2 +1,2 @@
 # Calculo-numerico
-Algoritmo para encontrar raiz na linguaguem de programação C
+Alguns algoritmos para encontrar raízes na linguaguem de programação C
