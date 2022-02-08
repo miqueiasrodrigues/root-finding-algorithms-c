@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616334537 source:c:\users\miqueias\documents\workspace\metodo_regula_falsi\main.c
+	<stdio.h>
+	<math.h>
+
