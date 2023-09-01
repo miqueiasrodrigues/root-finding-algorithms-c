@@ -1,4 +1,4 @@
-# Calculo-numerico
+# Cálculo numérico
 Alguns algoritmos para encontrar raízes na linguaguem de programação C, como:
 - Método da Bissecção
 - Falsa Posição (Regula Falsi)
